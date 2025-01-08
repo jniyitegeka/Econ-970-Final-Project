@@ -1,29 +1,3 @@
-
-/*
-                                                                                   WHAT TO EXPECT IN THIS FILE
-Jules Niyitegeka
-Final Project Data analysis
-Econ 970
-
-
-Overview:
-1. This file contains the sample code for my final project, which examines the impact of information bills implemented in multiple states on student loan default rates.
-2. The study uses data from the College Scorecard (2010–2022). Since the bills were implemented at the state level, the institutional-level data was aggregated to the state level to align with the policy implementation scope. Institution-specific implementation details were not available.
-3. The key variable of interest is the 3-year student loan default rate per institution, aggregated to the state level.
-
-Sections:
-1. Data Cleaning:
-   - Merging datasets.
-   - Creating variables of interest from the available ones.
-   - Preparing the dataset for analysis.
-2. Exploratory Data Analysis (EDA):
-   - Generating summary tables and descriptive statistics.
-   - Visualizing the data with bar plots for the variable of interest.
-3. Analysis:
-   - Implementing Callaway and Sant'Anna's Differences-in-Differences (DiD) approach.
-   - Producing tables and conducting an event study to analyze the temporal effects of the bills.
-*/
-
 version 18
 
 clear all
