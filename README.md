@@ -21,5 +21,5 @@ Overview:
    - Visualizing data trends across time and institutional categories.
 
 3. Section 3: Analysis
-   - Using regression models to analyze the relationships between student loan default rates and institutional characteristics.
+   - Using Callaway and Santa's Difference in Difference to analyze the relationships between student loan default rates and institutional characteristics.
    - Examining the impact of demographic and financial variables on default rates.
