@@ -1,6 +1,5 @@
 
                                                                                    
-Jules Niyitegeka
 Final Project Data Analysis
 Econ 970
 STATA
