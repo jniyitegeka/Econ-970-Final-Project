@@ -3,6 +3,7 @@
 Jules Niyitegeka
 Final Project Data Analysis
 Econ 970
+STATA
 
 Data analysis objective:
 This study evaluates whether state-level student loan informational provision bills, aimed at enhancing transparency and borrower awareness, have reduced default rates, using the Callaway and Sant’Anna Difference-in-Differences (CSDID) method. The analysis finds no significant impact on default rates as of 2021.
