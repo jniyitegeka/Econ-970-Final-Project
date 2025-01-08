@@ -4,8 +4,11 @@ Jules Niyitegeka
 Final Project Data Analysis
 Econ 970
 
+Data analysis objective:
+This study evaluates whether state-level student loan informational provision bills, aimed at enhancing transparency and borrower awareness, have reduced default rates, using the Callaway and Sant’Anna Difference-in-Differences (CSDID) method. The analysis finds no significant impact on default rates as of 2021.
+
 Overview:
-1. This file contains the analysis code for my final project, which uses the College Scorecard dataset to evaluate institutional performance and the factors influencing student outcomes.
+1. This file contains the analysis code for my final project, which uses the College Scorecard dataset to evaluate institutional performance and the factors influencing student outcomes from 2011-2022
 2. The study focuses on institution-level data, including costs, student demographics, and outcomes such as graduation rates and 3-year student loan default rates, primarily for institutions participating in federal Title IV financial aid programs.
 3. Data is aggregated from multiple sources, including the Integrated Postsecondary Education Data System (IPEDS), the National Student Loan Data System (NSLDS), and federal tax records, to track trends and variations over time.
    - Capturing key variables such as graduation rates, enrollments, average family income, and institutional characteristics (e.g., type, location, degree offerings).
